@@ -1,13 +1,3 @@
-
-
-class Views implements technology
-{
-public:
-	Views();
-	~Views();
-	
-};
-
 class Culture inherits Rossouw
 {
 	Culture(n){

@@ -1,0 +1,7 @@
+class Views implements technology
+{
+public:
+	Views();
+	~Views();
+	
+};
