@@ -1,0 +1,51 @@
+
+
+class Views implements technology
+{
+public:
+	Views();
+	~Views();
+	
+};
+
+class Culture inherits Rossouw
+{
+	Culture(n){
+		_group = new group[n];
+	}
+
+private:
+	~nature();
+
+	person group[n];
+
+	_habitate(world){
+		return {physical, economic, political}
+	}
+
+public:
+	humanization(natural_world, natural_in_man){
+		return { 
+			_habitate(natural_world),
+			_habitate(natural_in_man)
+		}
+	}
+
+	interpret(man, events, nature){
+		return {
+			conscience,
+			knowledge,
+			awareness,
+			good_bad,
+			ethos
+		}
+	}
+
+	get_change(){
+		return acceleration;
+	}
+
+	get_differences(){
+		return fade;
+	}
+}
