@@ -1,10 +1,13 @@
 class Culture inherits Rossouw
 {
-	Culture(n){
+	Culture(n, human_spirit){
 		_group = new group[n];
+		humanization();
+		interpret();
 	}
 
 private:
+
 	~nature();
 
 	person group[n];
@@ -14,6 +17,7 @@ private:
 	}
 
 public:
+
 	humanization(natural_world, natural_in_man){
 		return { 
 			_habitate(natural_world),
@@ -28,6 +32,18 @@ public:
 			awareness,
 			good_bad,
 			ethos
+		}
+	}
+
+	get_culture(){
+		return {
+			transformation,
+			separation_from_animals,
+			higher_intellectual_expression_of_mankind,
+			music,
+			art,
+			horticulture,
+			agriculture
 		}
 	}
 
