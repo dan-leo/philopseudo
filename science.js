@@ -44,8 +44,4 @@ public:
 			ethos = consideration - caprice
 		}
 	}
-
-
-
-
 };
