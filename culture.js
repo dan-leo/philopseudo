@@ -35,6 +35,11 @@ public:
 		}
 	}
 
+	equalization(different_cultural_environments){
+		wealth = masses + science;
+		standardization = scientific_knowledge + technological_progress;
+	}
+
 	get_culture(){
 		return {
 			transformation,
@@ -52,6 +57,7 @@ public:
 	}
 
 	get_differences(){
+		fade = technological_progress;
 		return fade;
 	}
 }

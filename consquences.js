@@ -31,4 +31,10 @@ public:
 		}
 	}
 
+	knowledge_consequences(){
+		return {
+			Knowledge.negative_responses()
+		}
+	}
+
 }

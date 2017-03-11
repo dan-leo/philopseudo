@@ -16,16 +16,6 @@ private:
 		}
 	}
 
-	_negative_responses(){
-		return {
-			pollution,
-			scarce_water,
-			nuclear_war_possibilty,
-			poor_humanplants_seen_as_useless_to_provide_meaning_to_human_life,
-			ethical_disorientation,
-			anti_science
-		}
-	}
 
 public:
 
@@ -54,6 +44,17 @@ public:
 				mechanization,
 				urbanization
 			]
+		}
+	}
+
+	negative_responses(){
+		return {
+			pollution,
+			scarce_water,
+			nuclear_war_possibilty,
+			poor_humanplants_seen_as_useless_to_provide_meaning_to_human_life,
+			ethical_disorientation,
+			anti_science
 		}
 	}
 
